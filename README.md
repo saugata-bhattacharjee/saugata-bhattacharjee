@@ -23,13 +23,11 @@ This GitHub is where I put the supply chain analytics projects I build: forecast
 
 | Project | What it does | Tools |
 |---|---|---|
-| [Supply Chain Risk Control Tower]([./supply-chain-risk-control-tower](https://github.com/saugata-bhattacharjee/supply-chain-risk-control-tower)) | Pulls live EUR/USD and Rotterdam port wind data into a risk score, a dashboard and email alerts | n8n, Docker, Python, SQL, Tableau |
-| [Demand Planning Automation]([./demand-planning-automation](https://github.com/saugata-bhattacharjee/demand-planning-automation)) | 6-script forecasting and replenishment pipeline for perishables. Manual planning effort down 96% | Python, Prophet, BPMN |
-| [Dairy Forecasting & S&OP]([./dairy-forecasting-sop](https://github.com/saugata-bhattacharjee/dairy-forecasting-sop)) | From EDA to Prophet with promotion effects to an automated S&OP report | Python, Prophet, Holt-Winters, Tableau |
-| [Supply Chain Pressure & Prices]([./gscpi-port-congestion](https://github.com/saugata-bhattacharjee/gscpi-port-congestion)) | How global supply chain pressure (GSCPI) shows up in consumer prices | Tableau |
-| [ReLeaf GrünWerk Supply Chain]([./releaf-supply-chain-design](https://github.com/saugata-bhattacharjee/releaf-supply-chain-design)) | Make-to-order supply chain for a 10,000-unit order: BOM, sourcing, costing, logistics | Excel, Lean / JIT |
-
-> Replace the links above with your real repository URLs once the repos exist.
+| [Supply Chain Risk Control Tower](https://github.com/saugata-bhattacharjee/supply-chain-risk-control-tower) | Pulls live EUR/USD and Rotterdam port wind data into a risk score, a dashboard and email alerts | n8n, Docker, Python, SQL, Tableau |
+| [Demand Planning Automation](https://github.com/saugata-bhattacharjee/demand-planning-automation) | 6-script forecasting and replenishment pipeline for perishables. Manual planning effort down 96% | Python, Prophet, BPMN |
+| [Dairy Forecasting & S&OP](https://github.com/saugata-bhattacharjee/dairy-forecasting-sop) | From EDA to Prophet with promotion effects to an automated S&OP report | Python, Prophet, Holt-Winters, Tableau |
+| [Supply Chain Pressure & Prices](https://github.com/saugata-bhattacharjee/gscpi-port-congestion) | How global supply chain pressure (GSCPI) shows up in consumer prices | Tableau |
+| [ReLeaf GrünWerk Supply Chain](https://github.com/saugata-bhattacharjee/releaf-supply-chain-design) | Make-to-order supply chain for a 10,000-unit order: BOM, sourcing, costing, logistics | Excel, Lean / JIT |
 
 ### Also
 
